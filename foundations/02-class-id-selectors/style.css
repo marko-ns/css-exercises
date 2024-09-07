@@ -1,0 +1,18 @@
+.reddish {
+    background-color: rgb(235, 82, 82);
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+
+#numeroDos {
+    color: blue;
+    font-size: 36px;
+}
+
+.reddish.bigger {
+    font-size: 24px;
+}
+
+#numeroCuatro {
+    background-color: rgb(124, 252, 130);
+    font-weight: bold;
+}
